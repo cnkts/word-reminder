@@ -3,6 +3,7 @@ const hello = (req, res) => {
 };
 
 const index = (req, res) => {
+    
   res.send("index controller ile yazdırılrdı. anasayfadasın");
 };
 
